@@ -1,0 +1,67 @@
+/* CSS Document */
+
+body{
+	background-color: #B0CDF1;
+	font-size: 18px;
+	alignment-adjust: central;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	top: 200px;
+	right: 60px;
+	left: 50px;
+	font-weight: 300;
+	color: #FFF;
+	text-decoration: none;
+	position: static;
+}
+
+.primero{
+	margin-top: 70px;
+	margin-left: 70px;
+	height: 500px;
+	width: 900px;
+	background-color: #4276B6;
+	float: none;
+	color: white;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 30px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.segundo{
+	margin-left: 1100px;
+	margin-top: -450px;
+}
+
+.dos{
+	margin-top: 70px;
+	margin-left: 600px;
+	height: 350px;
+	width: 700px;
+	background-color: #4276B6;
+	float: none;
+	color: #FFF;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 30px;
+
+}
+
+.segundo2{
+	margin-left: 750px;
+	margin-top: 390px;
+    }
+
+.tercero{
+	margin-top: 15px;
+	margin-left: 280px;
+	height: 800px;
+	width: 1300px;
+	background-color: #4276B6;
+	float: none;
+	color: white;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 36px;
+        
+}
